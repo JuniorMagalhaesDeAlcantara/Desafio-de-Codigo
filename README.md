@@ -1,18 +1,13 @@
-## Getting Started
+## Desafio De Codigo Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório oferece uma coleção de desafios de código em Java para aprimorar habilidades e tornar um programador mais experiente e versátil.
 
-## Folder Structure
+## Aprimorando Habilidades!
 
-The workspace contains two folders by default, where:
+Desafios de código praticar e se tornar um ninja do Java!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Benefícios:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Aprimorar habilidades de resolução de problemas.
+Aprofundar conhecimento de Java.
+Aumentar a confiança e desenvolver criatividade.
